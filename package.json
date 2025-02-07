@@ -1,0 +1,15 @@
+{
+  "name": "jbstudios",
+  "version": "1.0.0",
+  "description": "A Node.js project for JBS Studios",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Danielon Emmanuel Aboagye",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
